@@ -1,5 +1,5 @@
 # Ghost-Admin
-
+开始汉化
 [![Build Status](https://travis-ci.org/TryGhost/Ghost-Admin.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost-Admin)
 
 This is the home of Ember.js based admin client that ships with [Ghost](https://github.com/tryghost/ghost).
